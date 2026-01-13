@@ -3,7 +3,7 @@
   "name": "BOJ AI review",
   "description": "백준 문제풀이 시 AI Review 기능 추가(forked from BaekjoonHub)",
   "homepage_url": "https://github.com/0-tae/BaekjoonHub-with-ai-review",
-  "version": "1.2.3.1",
+  "version": "1.2.3.2",
   "author": "flaxinger",
   "action": {
     "default_icon": "assets/thumbnail.png",
